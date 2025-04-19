@@ -1,2 +1,2 @@
 # Placement_Analysis
-Student Placement analyis using powerbi
+Student Placement Analyis Using PowerBI
